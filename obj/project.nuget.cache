@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AtMw+s3Q7oDdFAEdFUl4yO2cFf6Ejyq5e3Ua6ei3Jh/7u1tigpnkOppLUvRqfS4GKpXwZ7Egl2QPD+e4v0e/Ow==",
+  "success": true,
+  "projectFilePath": "/Users/heyman/WebAPIClient/WebAPIClient.csproj",
+  "expectedPackageFiles": [
+    "/Users/heyman/.nuget/packages/system.text.json/5.0.0/system.text.json.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

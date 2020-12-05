@@ -1,0 +1,14 @@
+/Users/heyman/WebAPIClient/bin/Debug/netcoreapp3.1/WebAPIClient.deps.json
+/Users/heyman/WebAPIClient/bin/Debug/netcoreapp3.1/WebAPIClient.runtimeconfig.json
+/Users/heyman/WebAPIClient/bin/Debug/netcoreapp3.1/WebAPIClient.runtimeconfig.dev.json
+/Users/heyman/WebAPIClient/bin/Debug/netcoreapp3.1/WebAPIClient.dll
+/Users/heyman/WebAPIClient/bin/Debug/netcoreapp3.1/WebAPIClient.pdb
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.csprojAssemblyReference.cache
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.AssemblyInfoInputs.cache
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.AssemblyInfo.cs
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.csproj.CoreCompileInputs.cache
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.dll
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.pdb
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.genruntimeconfig.cache
+/Users/heyman/WebAPIClient/bin/Debug/netcoreapp3.1/System.Text.Json.dll
+/Users/heyman/WebAPIClient/obj/Debug/netcoreapp3.1/WebAPIClient.csproj.CopyComplete
